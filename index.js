@@ -2,7 +2,7 @@ let animalName = 'Replace Me';
 
 let height = 20;
 
-let isIndoorPet = True;
+let isIndoorPet = 'True';
 
 
 
