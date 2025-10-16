@@ -1,4 +1,4 @@
-let animalName = 'Cat';
+let animalName = 'Replace Me';
 
 let height = 20;
 
